@@ -1,0 +1,425 @@
+[
+    {
+        "id": 1,
+        "date": "2024-09-27",
+        "time": "21:03",
+        "team_A": [
+            ".yakuza_.",
+            "_annndreyko_",
+            "dnwr",
+            "ch1llyx",
+            "skxdi"
+        ],
+        "team_B": [
+            "1488_192",
+            "abilitycraft",
+            "emperor9495",
+            "mrdane2866",
+            "kuzkyna_mat"
+        ],
+        "winner": "1",
+        "dota_id": "7962711257"
+    },
+    {
+        "id": 2,
+        "date": "2024-09-27",
+        "time": "22:07",
+        "team_A": [
+            "abilitycraft",
+            "emperor9495",
+            "kuzkyna_mat",
+            "ch1llyx",
+            "skxdi"
+        ],
+        "team_B": [
+            "1488_192",
+            "mrdane2866",
+            ".yakuza_.",
+            "_annndreyko_",
+            "dnwr"
+        ],
+        "winner": "2",
+        "dota_id": "7962772704"
+    },
+    {
+        "id": 3,
+        "date": "2024-09-28",
+        "time": "20:47",
+        "team_A": [
+            "kuzkyna_mat",
+            ".yakuza_.",
+            "kolguap",
+            "dnwr",
+            "lexa3572"
+        ],
+        "team_B": [
+            "abilitycraft",
+            "ch1llyx",
+            "emperor9495",
+            "fantikk",
+            "1488_192"
+        ],
+        "winner": "1",
+        "dota_id": "7964381571"
+    },
+    {
+        "id": 4,
+        "date": "2024-09-28",
+        "time": "21:46",
+        "team_A": [
+            "kolguap",
+            "fantikk",
+            "1488_192",
+            "skxdi",
+            ".yakuza_."
+        ],
+        "team_B": [
+            "ch1llyx",
+            "dnwr",
+            "lexa3572",
+            "kuzkyna_mat",
+            "emperor9495"
+        ],
+        "winner": "2",
+        "dota_id": "7964453399"
+    },
+    {
+        "id": 5,
+        "date": "2024-10-12",
+        "time": "22:18",
+        "team_A": [
+            "abilitycraft",
+            "ch1llyx2",
+            "kolguap",
+            "1488_192",
+            "ch1llyx"
+        ],
+        "team_B": [
+            ".yakuza_.",
+            "mrdane2866",
+            "kuzkyna_mat",
+            "dnwr",
+            "fantikk"
+        ],
+        "winner": "2",
+        "dota_id": "7985368973"
+    },
+    {
+        "id": 6,
+        "date": "2024-10-12",
+        "time": "23:34",
+        "team_A": [
+            ".yakuza_.",
+            "kolguap",
+            "kuzkyna_mat",
+            "1488_192",
+            "ch1llyx"
+        ],
+        "team_B": [
+            "mrdane2866",
+            "abilitycraft",
+            "ch1llyx2",
+            "dnwr",
+            "fantikk"
+        ],
+        "winner": "1",
+        "dota_id": "7985424681"
+    },
+    {
+        "id": 7,
+        "date": "2024-10-13",
+        "time": "19:25",
+        "team_A": [
+            "kolguap",
+            "ch1llyx",
+            "dnwr",
+            ".yakuza_.",
+            "kultiwator"
+        ],
+        "team_B": [
+            "faster2281337",
+            "abilitycraft",
+            "kuzkyna_mat",
+            "emperor9495",
+            "ch1llyx2."
+        ],
+        "winner": "2",
+        "dota_id": "7986882566"
+    },
+    {
+        "id": 8,
+        "date": "2024-10-19",
+        "time": "17:19",
+        "team_A": [
+            "kolguap",
+            "dnwr",
+            ".yakuza_.",
+            "kuzkyna_mat",
+            "suckmyname"
+        ],
+        "team_B": [
+            "faster2281337",
+            "lexa3572",
+            "mrdane2866",
+            "medioakula",
+            "ch1llyx"
+        ],
+        "winner": "2",
+        "dota_id": "7995456563"
+    },
+    {
+        "id": 9,
+        "date": "2024-10-19",
+        "time": "18:56",
+        "team_A": [
+            "suckmyname",
+            "ch1llyx",
+            "medioakula",
+            "lexa3572",
+            "faster2281337"
+        ],
+        "team_B": [
+            "kolguap",
+            "dnwr",
+            "skxdi",
+            ".yakuza_.",
+            "kuzkyna_mat"
+        ],
+        "winner": "2",
+        "dota_id": null
+    },
+    {
+        "id": 10,
+        "date": "2024-10-19",
+        "time": "18:56",
+        "team_A": [
+            ".yakuza_.",
+            "kuzkyna_mat",
+            "fantikk",
+            "emperor9495",
+            "vadusha"
+        ],
+        "team_B": [
+            "kolguap",
+            "dnwr",
+            "skxdi",
+            "ch1llyx",
+            "yura_titan"
+        ],
+        "winner": "2",
+        "dota_id": "8005780712"
+    },
+    {
+        "id": 11,
+        "date": "2024-10-27",
+        "time": "18:02",
+        "team_A": [
+            "kolguap",
+            "ch1llyx",
+            "skxdi",
+            "kuzkyna_mat",
+            "va9yusha"
+        ],
+        "team_B": [
+            "fantikk",
+            "faster2281337",
+            "dnwr",
+            "abilitycraft",
+            ".yakuza_."
+        ],
+        "winner": "1",
+        "dota_id": "8007637583"
+    },
+    {
+        "id": 12,
+        "date": "2024-10-28",
+        "time": "18:57",
+        "team_A": [
+            "kolguap",
+            "ch1llyx",
+            "faster2281337",
+            "a1stok",
+            "mrdane2866"
+        ],
+        "team_B": [
+            "suckmyname",
+            "fantikk",
+            "dnwr",
+            "skxdi",
+            ".yakuza_."
+        ],
+        "winner": "1",
+        "dota_id": null
+    },
+    {
+        "id": 13,
+        "date": "2024-11-02",
+        "time": "15:31",
+        "team_A": [
+            "fantikk",
+            "sneezyan",
+            ".yakuza_.",
+            "crcr.",
+            "emperor9495"
+        ],
+        "team_B": [
+            "kolguap",
+            "ch1llyx",
+            "dnwr",
+            "a1stok",
+            "mrdane2866"
+        ],
+        "winner": "2",
+        "dota_id": null
+    },
+    {
+        "id": 14,
+        "date": "2024-11-02",
+        "time": "15:31",
+        "team_A": [
+            "fantikk",
+            "sneezyan",
+            ".yakuza_.",
+            "crcr.",
+            "emperor9495"
+        ],
+        "team_B": [
+            "kolguap",
+            "ch1llyx",
+            "dnwr",
+            "a1stok",
+            "mrdane2866"
+        ],
+        "winner": "1",
+        "dota_id": null
+    },
+    {
+        "id": 15,
+        "date": "2024-11-02",
+        "time": "16:44",
+        "team_A": [
+            "ch1llyx",
+            "dnwr",
+            "a1stok",
+            ".yakuza_.",
+            "kuzkyna_mat"
+        ],
+        "team_B": [
+            "kolguap",
+            "fantikk",
+            "faster2281337",
+            "skxdi",
+            "crcr.",
+            "mrdane2866"
+        ],
+        "winner": "2",
+        "dota_id": null
+    },
+    {
+        "id": 16,
+        "date": "2024-11-03",
+        "time": "14:23",
+        "team_A": [
+            "kolguap",
+            "skxdi",
+            ".yakuza_.",
+            "kuzkyna_mat",
+            "crcr."
+        ],
+        "team_B": [
+            "faster2281337",
+            "lexa3572",
+            "abilitycraft",
+            "mrdane2866",
+            "ch1llyx"
+        ],
+        "winner": "2",
+        "dota_id": null
+    },
+    {
+        "id": 17,
+        "date": "2024-11-10",
+        "time": "19:24",
+        "team_A": [
+            "9ta1ls",
+            "ch1llyx",
+            "faster2281337",
+            "dnwr",
+            ".yakuza_."
+        ],
+        "team_B": [
+            "kolguap",
+            "fantikk",
+            "abilitycraft",
+            "kuzkyna_mat",
+            "mrdane2866"
+        ],
+        "winner": "2",
+        "dota_id": null
+    },
+    {
+        "id": 18,
+        "date": "2024-11-10",
+        "time": "20:26",
+        "team_A": [
+            "kolguap",
+            "abilitycraft",
+            "kuzkyna_mat",
+            "mrdane2866",
+            "va9yusha"
+        ],
+        "team_B": [
+            "9ta1ls",
+            "fantikk",
+            "faster2281337",
+            "dnwr",
+            "ch1llyx"
+        ],
+        "winner": "1",
+        "dota_id": null
+    },
+    {
+        "id": 19,
+        "date": "2024-12-07",
+        "time": "17:10",
+        "team_A": [
+            "kolguap",
+            "ch1llyx",
+            "fantikk",
+            "dnwr",
+            "bielovv",
+            "abilitycraft"
+        ],
+        "team_B": [
+            "faster2281337",
+            "lexa3572",
+            "a1stok",
+            ".yakuza_.",
+            "kuzkyna_mat"
+        ],
+        "winner": "Pending",
+        "dota_id": null
+    },
+    {
+        "id": 20,
+        "date": "2024-12-07",
+        "time": "17:31",
+        "team_A": [
+            "ch1llyx",
+            "fantikk",
+            "dnwr",
+            "a1stok",
+            "va9yusha"
+        ],
+        "team_B": [
+            "kolguap",
+            "faster2281337",
+            "bielovv",
+            "abilitycraft",
+            ".yakuza_.",
+            "kuzkyna_mat"
+        ],
+        "winner": "1",
+        "dota_id": null
+    }
+]

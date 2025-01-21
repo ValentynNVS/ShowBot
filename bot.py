@@ -328,5 +328,5 @@ async def give_loss(ctx, user: discord.Member):
         save_data(data)
         await ctx.send(f'{user.name} has been given a loss. Their new MMR is {data[user_id]["mmr"]}.')
 
-bot.run("MTI4NzYwNzUwMjUxNDU1NzAxMA.GDq3Ol.YPTFjhaV9Igz2PLonx9Tdt1H1C4pCAPxNHgA-0")
+bot.run("Oops, cant let you know my API key")
 
